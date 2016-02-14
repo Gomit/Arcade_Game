@@ -1,6 +1,10 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+![Picture](http://postimg.org/image/59bxw7h11/)
 
-for self-checking their submission.
+Project Name
+Classic Frogger
+
+Credits
+Based on Udacity.com HTML5 Canvas course.
